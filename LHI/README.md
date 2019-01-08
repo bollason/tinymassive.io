@@ -41,6 +41,12 @@ Side Facade: 39x9px / Front Facade: 38x13px / Total: 77x13px
 [SFCave](https://www.youtube.com/watch?v=WozidC1-ASs) - The player has to navigate a winding cave filled with obstacles using just one button and precision timing. (Inspiration for Flappy Bird)  
 [https://shakethatbutton.com/](https://shakethatbutton.com/) - Website with some good documentation of alternative control schemes for games and interactive arts.
 
+**Readings** 
+[Formulary for a New Urbanism](http://www.uncarved.org/turb/articles/formulary.html)
+[Situationist International Anthology](http://www.bopsecrets.org/SI/index.htm) - Further Situationist readings, if interested.
+[City of Sound blog post](https://www.cityofsound.com/blog/2008/01/faades-expressi.html) - Interesting post (ten years old!) aout interactive facades. A lot of cool examples.
+
+
 **Madness**
 
 [Dynamic Architecture](https://youtu.be/57DMoW-4xBw)  
